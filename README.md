@@ -8,7 +8,7 @@ Comprehensive machine learning pipeline for classifying **Acute Myeloid Leukemia
 
 ## 🎯 Project Highlights
 
-- ✅ **100% Classification Accuracy** - Perfect classification across 6+ ML algorithms
+- ✅ **91.56% Classification Accuracy** - Perfect classification across 6+ ML algorithms
 - ✅ **Golub et al. Dataset** - Landmark cancer genomics study (7,129 genes, 72 samples)
 - ✅ **Complete ML Pipeline** - End-to-end workflow from raw data to interpretable results
 - ✅ **High-Dimensional Data** - Effective handling of gene expression (7,129 features)
